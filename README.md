@@ -1,9 +1,9 @@
 # Intensivão de Power BI 📊
 
 Repositório com foco em estudos na ferramenta Power BI. Os dashboards apresentados foram elaborados no Intensivão de Power BI da Hashtag Treinamentos. Dentre eles foram criados:
-- [Dashboard de RH]()
-- [Dashboard de Produção]()
-- [Dashboard de Vendas]()
+- [Dashboard de RH](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20RH)
+- [Dashboard de Produção](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Produ%C3%A7%C3%A3o)
+- [Dashboard de Vendas](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
 
 ### Dashboard de RH
 
