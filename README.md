@@ -35,7 +35,7 @@ Nenhuma nova coluna foi criada a partir dos dados.
 
 ### Dashboard de Logística
 
-![Gif que exemplifica o funcionando de Logística](https://i.imgur.com/9MqiWdj.gif)
+![Gif que exemplifica o funcionando de Logística](https://i.imgur.com/ICBtVVR.gif)
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMDhhYTk1ZWMtMDBjZi00NzI0LTk2ZmUtNTQ2MWQ1MGZmZmEzIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection1cd0e1a90b7cb2308a4c)
 
