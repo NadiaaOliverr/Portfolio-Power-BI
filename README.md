@@ -1,8 +1,8 @@
-# Portfólio Power BI
+# Portfólio Power BI 📊
 
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
-- [Dashboard Financeiro]()
+- [Dashboard Financeiro](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Financeiro)
 - [Dashboard de RH](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20RH)
 - [Dashboard de Produção](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Produ%C3%A7%C3%A3o)
 - [Dashboard de Vendas](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
