@@ -3,6 +3,7 @@
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
 - [Dashboard Financeiro](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Financeiro)
+- [Dashboard de Logística]()
 - [Dashboard de RH](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20RH)
 - [Dashboard de Produção](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Produ%C3%A7%C3%A3o)
 - [Dashboard de Vendas](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
@@ -30,6 +31,46 @@ Arquivo em excel que contém inicialmente as seguintes colunas:
 Nenhuma nova coluna foi criada a partir dos dados.
 
 **Quantidade de dados: 2.725** 
+
+
+### Dashboard de Logística
+
+![Gif que exemplifica o funcionando de Logística](https://i.imgur.com/9MqiWdj.gif)
+
+Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMDhhYTk1ZWMtMDBjZi00NzI0LTk2ZmUtNTQ2MWQ1MGZmZmEzIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection1cd0e1a90b7cb2308a4c)
+
+#### Estrutura da base de dados
+
+Arquivo **CadastroVeiculos.xlsx** que contém inicialmente as seguintes colunas:
+- Código Veículo
+- Placa
+- Marca
+- Tipo Veículo
+- Baú
+- Ano
+
+Nenhuma nova coluna foi criada a partir dos dados.
+
+Arquivo **Fretes.xlsx** que contém inicialmente as seguintes colunas:
+- Data Pedido
+- Data Previsão Entrega
+- Data Entrega
+- Cliente
+- idVeículo
+- Documento Fiscal
+- Peso (KG)
+- Peso (Cubado)
+- Valor da Mercadoria
+- Valor do Frete Líquido
+- Devolução
+- Status
+
+Colunas criadas a partir dos dados:
+- UF
+- Cidade
+- idCliente
+
+**Quantidade total dos dados: 23.888** 
 
 ### Dashboard de RH
 
