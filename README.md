@@ -67,8 +67,9 @@ Arquivo **Fretes.xlsx** que contém inicialmente as seguintes colunas:
 - Status
 
 Colunas criadas a partir dos dados:
-- Cliente
-- Motorista
+- UF
+- Cidade
+- idCliente
 
 **Quantidade total dos dados: 23.888** 
 
@@ -96,13 +97,10 @@ Arquivo **DB_Logistica.xlsx** que contém inicialmente as seguintes colunas:
 - Status
 
 Colunas criadas a partir dos dados:
-- UF
-- Cidade
-- idCliente
+- Cliente
+- Motorista
 
 **Quantidade total dos dados: 4.282** 
-
-
 
 ### Dashboard de RH
 
@@ -180,6 +178,5 @@ Colunas criadas a partir dos dados:
 - Continente
 
 **Quantidade de dados: 203.883** 
-
 
 Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua issue 😉
