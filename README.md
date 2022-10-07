@@ -3,7 +3,8 @@
 Dashboards elaborados com foco em estudos na ferramenta Power BI, visando construir um portfólio com cenários reais do dia a dia:
 
 - [Dashboard Financeiro](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Financeiro)
-- [Dashboard de Logística]()
+- [Dashboard de Logística - V1](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Log%C3%ADstica%20-%20V1)
+- [Dashboard de Logística - V2](https://github.com/NadiaaOliverr/Portfolio-Power-BI/tree/main/Dashboard%20Log%C3%ADstica%20-%20V2)
 - [Dashboard de RH](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20RH)
 - [Dashboard de Produção](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Produ%C3%A7%C3%A3o)
 - [Dashboard de Vendas](https://github.com/NadiaaOliverr/Intensivao-de-Power-BI/tree/main/Dashboard%20Vendas)
@@ -33,9 +34,9 @@ Nenhuma nova coluna foi criada a partir dos dados.
 **Quantidade de dados: 2.725** 
 
 
-### Dashboard de Logística
+### Dashboard de Logística - V1
 
-![Gif que exemplifica o funcionando de Logística](https://i.imgur.com/ICBtVVR.gif)
+![Gif que exemplifica o funcionando do dashboard de Logística](https://i.imgur.com/ICBtVVR.gif)
 
 Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiMDhhYTk1ZWMtMDBjZi00NzI0LTk2ZmUtNTQ2MWQ1MGZmZmEzIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection1cd0e1a90b7cb2308a4c)
 
@@ -66,11 +67,42 @@ Arquivo **Fretes.xlsx** que contém inicialmente as seguintes colunas:
 - Status
 
 Colunas criadas a partir dos dados:
+- Cliente
+- Motorista
+
+**Quantidade total dos dados: 23.888** 
+
+### Dashboard de Logística - V2
+
+![Gif que exemplifica o funcionando do dashboard Logística](https://i.imgur.com/L9VI3fl.gif)
+
+Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiZWEwODY1YTMtYWVlYi00NDkwLWFhOWItOTZhYmI4ZDk0OTVjIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9)
+
+#### Estrutura da base de dados
+
+Arquivo **DB_Logistica.xlsx** que contém inicialmente as seguintes colunas:
+- N° Pedido
+- Cliente-Motorista
+- Data Emissão Pedido
+- Data Entrega Prevista
+- Destino
+- Item
+- R$ Farurado
+- Saída para Entrega
+- Data Entrega Real
+- Qtd Devolução
+- Mot. Devolução
+- Dias para entrega
+- Status
+
+Colunas criadas a partir dos dados:
 - UF
 - Cidade
 - idCliente
 
-**Quantidade total dos dados: 23.888** 
+**Quantidade total dos dados: 4.282** 
+
+
 
 ### Dashboard de RH
 
@@ -148,30 +180,6 @@ Colunas criadas a partir dos dados:
 - Continente
 
 **Quantidade de dados: 203.883** 
-
-### Dashboard de Produção
-
-![Gif que exemplifica o funcionando do dashboard de Produção](https://i.imgur.com/ma2ezFI.gif)
-
-Acesse o dashboard completo [neste link](https://app.powerbi.com/view?r=eyJrIjoiNGU3NGViNWUtZjM3MS00ODdhLWExMjMtOWY3NTAxZDJkM2QxIiwidCI6IjI5NjM1NGU5LTk1MmItNDgwNC05NDE0LTA3N2MzZmVjNTg5NSJ9&pageName=ReportSection)
-
-#### Estrutura da base de dados
-
-Arquivo em excel que contém inicialmente as seguintes colunas:
-- Número Ordem
-- Operador
-- Produto
-- Ocorrência
-- Início
-- Fim
-- Quantidade Produzida
-- Quantidade Rejeitada
-
-Colunas criadas a partir dos dados:
-- Hora Início
-- Hora Fim
-
-**Quantidade de dados: 31617** 
 
 
 Tem alguma sugestão de melhoria ou encontrou algum bug? Deixe sua issue 😉
